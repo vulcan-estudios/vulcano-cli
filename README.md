@@ -1,2 +1,3 @@
-# app-kit
-React Application Boilerplate
+# Vulcano CLI
+
+Vulcano CLI.

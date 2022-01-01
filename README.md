@@ -1,3 +1,0 @@
-# Vulcano CLI
-
-Vulcano CLI.
